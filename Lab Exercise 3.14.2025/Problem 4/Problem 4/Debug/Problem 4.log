@@ -1,0 +1,17 @@
+﻿Build started 3/18/2018 1:28:49 PM.
+     1>Project "C:\Users\nmessa\Desktop\MyC++\Lab Exercise 3.19.2018\Problem 4\Problem 4\Problem 4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Problem 4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Problem 4.vcxproj -> C:\Users\nmessa\Desktop\MyC++\Lab Exercise 3.19.2018\Problem 4\Debug\Problem 4.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Problem 4.unsuccessfulbuild".
+         Touching "Debug\Problem 4.lastbuildstate".
+     1>Done Building Project "C:\Users\nmessa\Desktop\MyC++\Lab Exercise 3.19.2018\Problem 4\Problem 4\Problem 4.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07

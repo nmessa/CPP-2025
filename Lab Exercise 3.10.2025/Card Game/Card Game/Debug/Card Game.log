@@ -1,0 +1,17 @@
+﻿Build started 3/3/2022 12:33:13 PM.
+     1>Project "G:\SST\2021 - 2022 Courses\C++\MyC++\Lab Exercise 3.9.2022\Card Game\Card Game\Card Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Card Game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Card Game.vcxproj -> G:\SST\2021 - 2022 Courses\C++\MyC++\Lab Exercise 3.9.2022\Card Game\Debug\Card Game.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Card Game.unsuccessfulbuild".
+         Touching "Debug\Card Game.lastbuildstate".
+     1>Done Building Project "G:\SST\2021 - 2022 Courses\C++\MyC++\Lab Exercise 3.9.2022\Card Game\Card Game\Card Game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17
